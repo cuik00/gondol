@@ -17,7 +17,7 @@ account = {
 Change Your Bet Strategy/Bet Setting
 '''
 betset = {
-	"Basebet":"0.025",
+	"Basebet":"0.1",
 	"Chance1":"6",
 	"Chance2":"6"
 }
@@ -61,8 +61,8 @@ feature = {
 Dont Forget To Change Your Wallet Here
 '''
 withdraw = {
-	"AutoWithdraw":"OFF",
-	"AmountWithdraw":"1000",
-	"WithdrawIfBalance":"19000",
+	"AutoWithdraw":"ON",
+	"AmountWithdraw":"23000",
+	"WithdrawIfBalance":"23000",
 	"Address":"322170868"
 }
