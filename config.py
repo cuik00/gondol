@@ -62,7 +62,7 @@ Dont Forget To Change Your Wallet Here
 '''
 withdraw = {
 	"AutoWithdraw":"ON",
-	"AmountWithdraw":"23000",
-	"WithdrawIfBalance":"23000",
+	"AmountWithdraw":"25000",
+	"WithdrawIfBalance":"25000",
 	"Address":"322170868"
 }
